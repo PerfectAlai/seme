@@ -86,3 +86,24 @@ section .container h3{
   margin-bottom: 3rem;
   font-family:'Roboto', sans-serif;
 }
+
+nav .container ul li a:hover{
+background: palevioletred;
+color: #502064;
+}
+
+nav .container ul li a{
+font-size: 1.0rem;
+margin-left: 75px;
+}
+
+section .container a{
+  display: center;
+  background: pink;
+}
+
+section .container a:hover{
+  background: palevioletred;
+  color: black;
+
+}
