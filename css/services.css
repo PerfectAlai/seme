@@ -48,6 +48,19 @@ background: #f5f8fd;
   text-align: center;
 }
 
+#services .box:hover{
+  transform: scale(1.1);
+}
+
+#services .icon .service-icon{
+  font-size: 36px;
+  line-height: 1;
+}
+
+#services .title{
+  font-weight: 700;
+}
+
 a{
   text-decoration: pink;
   color: plum;
